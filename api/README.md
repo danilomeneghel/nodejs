@@ -1,9 +1,9 @@
 # API com NodeJs
 
-### Sumário
+### Sobre o Projeto
 Projeto de uma API usando NodeJs.
 
-### Conteúdo Programático
+### Características
 * Instalação Node, NPM e VS Code
 * npm init e instalação dos pacotes
 * Criando um servidor Web

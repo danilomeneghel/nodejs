@@ -29,5 +29,4 @@ You must have node.js, npm and mongodb installed.
 
 ## Configuration
 - To configure access to the database: "app.js"
-- In order to configure the database you can:
-    - Import the DB "db.sql" in the current directory
+

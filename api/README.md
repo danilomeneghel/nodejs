@@ -1,7 +1,7 @@
-# APIs with NodeJs
+# API com NodeJs
 
 ### Sumário
-Neste curso vamos unir a popularidade das APIs com a popularidade do JavaScript criando uma API completa com NodeJs, passando pelos principais pontos que você precisa conhecer para colocar seu projeto em produção.
+Projeto de uma API usando NodeJs.
 
 ### Conteúdo Programático
 * Instalação Node, NPM e VS Code
@@ -17,7 +17,7 @@ Neste curso vamos unir a popularidade das APIs com a popularidade do JavaScript 
 * Rotas
 * Controllers
 * MongoDb Setup
-* Mongooose
+* Mongoose
 * Models
 * Criando um Produto
 * Listando os Produtos

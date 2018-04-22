@@ -8,6 +8,7 @@ This project aims to test the use of the Node.js Framework
 - Routes
 - Register
 - Login
+- View EJS
 
 ## Tecnologies
 - JS

@@ -4,10 +4,10 @@
 This project aims to test the use of the Node.js Framework
 
 ## Features
-- Auth
 - Routes
-- Register
-- Login
+- Validator
+- CRUD
+- Register User
 
 ## Tecnologies
 - JS

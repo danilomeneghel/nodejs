@@ -6,8 +6,8 @@ This project aims to test the use of the Node.js Framework
 ## Features
 - Routes
 - Validator
-- CRUD
-- Register User
+- CRUD User
+- View Jade
 
 ## Tecnologies
 - JS
